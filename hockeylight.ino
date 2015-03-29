@@ -22,8 +22,8 @@
   http://www.adafruit.com/products/1391
   http://www.adafruit.com/products/268
   http://www.adafruit.com/product/85
-  http://www.ebay.com/.../2-Police-Light.../200935299700
-
+  http://www.ebay.com/itm/2-Police-Light-Beacons-Red-Spinning-Club-DJ-Decoration-/200935299700
+  
   Written by Mark DeVries.
  ****************************************************/
 
