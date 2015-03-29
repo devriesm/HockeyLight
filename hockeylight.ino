@@ -128,13 +128,14 @@ void loop() {
       
       // check if button b was pressed
       if ( b > BUTTON_THRESHOLD ) {
-        //turn off the light, and stop playing the audio
-        digitalWrite(5, LOW);
+        // stop playing the audio
         musicPlayer.stopPlaying();
       } else {
         delay(100);
       }
     }
+    // turn off the light because audio stopped playing
+    digitalWrite(5, LOW);
     Serial.println("Done playing music");
   }
   
