@@ -59,7 +59,7 @@ const byte BUTTON_THRESHOLD = 50;
 
 void setup() {
   Serial.begin(9600);
-  Serial.println("Adafruit VS1053 Library Test");
+  Serial.println("Start Up!");
 
   // initialise the music player
   if (! musicPlayer.begin()) { // initialise the music player
